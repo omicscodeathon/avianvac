@@ -30,8 +30,17 @@
 
 ### Team Members
 - Chimenya H.  Ntweya
-- Ojochenemi A. Enejoh3 
-Author3 
-Author4
-Author5
+- Ojochenemi A. Enejoh
+- Diabate Oudou
+- Angellina Rukundo
+- Ayando Oluwaseun
+- Margaret Alabi
+- Onabowale
+- Wambui Kariithim
+- Adham Hallal
+- Lorreta Kwasah
+
+  
+![image](https://github.com/omicscodeathon/avianvac/assets/69383371/acda94d6-8f0f-4530-8c6b-626839bebb38)
+
 
