@@ -29,13 +29,13 @@
 -
 
 ### Team Members
-- Chimenya H.  Ntweya
-- Ojochenemi A. Enejoh
+- Chimenya Ntweya
+- Ojochenemi Enejoh
 - Diabate Oudou
 - Angellina Rukundo
 - Ayando Oluwaseun
 - Margaret Alabi
-- Onabowale
+- Eniola Onabowale
 - Wambui Kariithim
 - Adham Hallal
 - Lorreta Kwasah
