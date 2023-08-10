@@ -1,4 +1,4 @@
-# avianvac
+# Avianvac
 ## Construction of Multiple Epitope Vaccine Against H3N8 Strain of Avian Influenza: A Bioinformatics Approach
 
 ### Background
@@ -20,7 +20,8 @@
 - The population coverage of the shortlisted 10 epitopes was analyzed by using the IEDB’s Population Coverage (http://tools.iedb.org/population/) with default parameters.
 - ToxinPred tool was used for the prediction of toxicity (http://crdd.osdd.net/raghava/toxinpred/)
 
-- !(figures/Avian_flowchart.png)
+#### Work flow
+- ![Workflow] (figures/Avian_flowchart.png)
   
 
 ### Results
