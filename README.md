@@ -36,16 +36,16 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 -
 
 ## Team Members
-- Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi), chimenyantweya54@gmail.com
-- Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria), chenemidala@gmail.com
-- Diabate Oudou, diabateoudou@gmail.com
-- Angellina Rukundo, angellinarukundo@gmail.com
-- Ayando Oluwaseun, ayandooluwaseunayo@gmail.com
-- Margaret Alabi, margaretalabi92@gmail.com
-- Eniola Onabowale, eonabowale@gmail.com
-- Wambui Kariithim, wambuikariithim@gmail.com
-- Adham Hallal, adham.hallal@gmail.com
-- Lorreta Kwasah, kwasahlorreta@gmail.com
+- Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com
+- Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
+- Diabate Oudou diabateoudou@gmail.com 
+- Angellina Rukundo angellinarukundo@gmail.com 
+- Ayando Oluwaseun ayandooluwaseunayo@gmail.com 
+- Margaret Alabi margaretalabi92@gmail.com 
+- Eniola Onabowale eonabowale@gmail.com 
+- Wambui Kariithim wambuikariithim@gmail.com
+- Adham Hallal adham.hallal@gmail.com
+- Lorreta Kwasah kwasahlorreta@gmail.com
 
 
 
