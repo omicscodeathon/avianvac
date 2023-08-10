@@ -21,7 +21,7 @@
 - ToxinPred tool was used for the prediction of toxicity (http://crdd.osdd.net/raghava/toxinpred/)
 
 ### Workflow
-- ![Workflow] (figures/Avian_flowchart.png)
+- ![Figures] (figures/Avian_flowchart.png)
   
 
 ### Results
