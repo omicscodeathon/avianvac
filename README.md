@@ -36,16 +36,34 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 -
 
 ## Team Members
-- Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India. Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi)
-- Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria)
-- Diabate Oudou
-- Angellina Rukundo
-- Ayando Oluwaseun
-- Margaret Alabi
-- Eniola Onabowale
-- Wambui Kariithim
-- Adham Hallal
-- Lorreta Kwasah
+- Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi), chimenyantweya54@gmail.com
+- Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria), chenemidala@gmail.com
+- Diabate Oudou, diabateoudou@gmail.com
+- Angellina Rukundo, angellinarukundo@gmail.com
+- Ayando Oluwaseun, ayandooluwaseunayo@gmail.com
+- Margaret Alabi, margaretalabi92@gmail.com
+- Eniola Onabowale, eonabowale@gmail.com
+- Wambui Kariithim, wambuikariithim@gmail.com
+- Adham Hallal, adham.hallal@gmail.com
+- Lorreta Kwasah, kwasahlorreta@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 ![image](https://github.com/omicscodeathon/avianvac/assets/69383371/acda94d6-8f0f-4530-8c6b-626839bebb38)
