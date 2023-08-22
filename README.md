@@ -38,7 +38,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ## Conclusion
-Our study identified a Multi-Epitope Vaccine (MEV) as a significant vaccine candidate that could potentially help the global world to combat Avian Influenza infections.
+Our study identified a Multi-Epitope Vaccine as a significant vaccine candidate that could potentially help the global world combat Avian Influenza Infections.
 
 
 ## Team Members
