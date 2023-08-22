@@ -21,7 +21,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 - ToxinPred tool was used for the prediction of toxicity (http://crdd.osdd.net/raghava/toxinpred/)
 
 ### Workflow
-![figures](figures/Avian_flowchart.png)
+![figures](figures/Avianvac (1).png)
   
 
 
