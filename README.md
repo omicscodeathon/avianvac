@@ -27,18 +27,40 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 ## Results
 
+### Physicochemical properties of H3N8 Strain
+![figures](figures/Physicochemical_properties.png)
+
+
 ### Amino Acid Composition
 ![figures](figures/AA_Comp.jpg)
 
 
-
+### Antigenicity of H3N8 Spike protein
 ![figures](figures/Antigenicity.jpg) 
 
+
+### B cell epitopes threshold score and position
+![figures](figures/B_Cell_Epitope_threshold_Score_and_position.png)
+
+
+### Predicted B cell epitopes
 ![figures](figures/B_Cell-epitopes.jpg)
 
+
+
+### Population_Coverage
 ![figures](figures/Population_Coverage.jpg)
 
+
+
+### Predicted Secondary Vaccine Candidate Structure
 ![figures](figures/Vaccine_Candidate_Structure.jpg)
+
+
+
+### Multi-Epitope subunit Vaccine Construct
+![figures](figures/Vaccine_Construct.jpg)
+
 
 
 ## Conclusion
@@ -56,6 +78,7 @@ Our study identified a Multi-Epitope Vaccine as a significant vaccine candidate 
 - Wambui Kariithim wambuikariithim@gmail.com
 - Adham Hallal adham.hallal@gmail.com
 - Lorreta Kwasah kwasahlorreta@gmail.com
+- Mamadou Sangare 
 
 
 
