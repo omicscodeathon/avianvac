@@ -26,7 +26,11 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ## Results
+
+### Amino Acid Composition
 ![figures](figures/AA_Comp.jpg)
+
+
 
 ![figures](figures/Antigenicity.jpg) 
 
