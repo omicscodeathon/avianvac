@@ -63,6 +63,11 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 
+### Docked_model
+![figures](figures/Docked_model.png)
+
+ 
+
 ## Conclusion
 Our study identified a Multi-Epitope Vaccine as a significant vaccine candidate that could potentially help the global world combat Avian Influenza Infections.
 
