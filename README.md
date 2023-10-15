@@ -69,8 +69,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
  
 
 ## Conclusion
-Our study identified a Multi-Epitope Vaccine as a significant vaccine candidate that could potentially help the global world combat Avian Influenza Infections.
-
+The proposed vaccine met all the required criteria together with antigenicity, allergenicity, toxicity and other physicochemical properties. Collectively, our designed vaccine construct is safe; however, preclinical studies/validation must be performed before clinical trials.
 
 ## Team Members
 - Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com
