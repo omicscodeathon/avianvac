@@ -26,8 +26,9 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ## Results
-
+The result showed that the sequence is a probable Non-Allergen. Using Vaxijen 2.0 an internet server, we were able to estimate antigenicity of viral protein. To increase specificity the cut off was lowered at 0.4. An examination of full length spike protein sequence shown 0.4991 antigenicity making it probable antigen
 ### Physicochemical properties of H3N8 Strain
+ProtParam showed a molecular weight of 63686.23 Da whereas it contains 565 amino acid units. According to our calculations, the theoretic isoelectric point (PI) was found to be 8.02, which indicates that the protein has negative charge as below this it shows positive charge
 ![figures](figures/Physicochemical_properties.png)
 
 
@@ -40,8 +41,15 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ### B cell epitopes threshold score and position
+The peptide sequence from  15 to 524 amino acids is declared as B-cells epitopes and can speed up the preferred immune response due to its highest antigenicity of 1.0075 ,non-toxicity and non-allergenicity
 ![figures](figures/B_Cell_Epitope_threshold_Score_and_position.png)
 
+### Prediction of T-Cell epitopes
+### MHC-I T cells
+A lower IC50s a higher binding affinity of MHC-I T cell epitopes. The IEDB predicted a total of 2791 T-cells.The antigenicity, Allergenicity and toxicity of 11 epitopes were assessed . The MHC-I epitopes were analyzed and binds to allelesHLA-E*01:01,HLA-G*01:01,HLA-A*01:01, HLA-C*01:02, HLA-B*07:02 .The main epitope GQSGRISI  showed highest antigenicity score of 1.2512
+
+### MHC-II T cells
+Ten epitopes were selected for further study on antigenicity, allergenicity,and  toxicity. The epitope LNNRFQIKGVELKSG  was considered to have the highest antigenic score of 1.6233. They bind to the following alleles HLA-DRB1*01:01, HLA-DRB5*01:01, HLA-DRB3*01:01, HLA-DRB4*01:01
 
 ### Predicted B cell epitopes
 ![figures](figures/vaccine%20seq.jpg)
@@ -49,6 +57,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ### Population_Coverage
+The  population coverage of theT-cells epitopes  across the world . MHC allele was found to be 99.30% in the united states, followed by india (97.39%), the lowest population was found Morocco (25.77%)
 ![figures](figures/Population_Coverage.jpg)
 
 
