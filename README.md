@@ -71,11 +71,17 @@ The  population coverage of theT-cells epitopes  across the world . MHC allele w
 ![figures](figures/Vaccine_Construct.jpg)
 
 
+### Predicted Protein structure from iTasser
+I-TASSER was used for the construction of the 3D structure. Five models were generated, out of which the best selected based on the C score, the model with high C-score was selected because high value signifies a model with confidence and vice versa.
+![figures](figures/Predicted_Vaccine_Protein_structure.jpg)
 
-### Docked_model
-![figures](figures/Docked_model.png)
 
- 
+### Docked_model of Vaccine construct
+![figures](figures/Docked_Model.jpg)
+
+
+### Solubility
+![figures](figures/Solubility.jpg)
 
 ## Conclusion
 The proposed vaccine met all the required criteria together with antigenicity, allergenicity, toxicity and other physicochemical properties. Collectively, our designed vaccine construct is safe; however, preclinical studies/validation must be performed before clinical trials.
