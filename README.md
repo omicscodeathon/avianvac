@@ -44,7 +44,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 
 ### Predicted B cell epitopes
-![figures](figures/B_Cell-epitopes.jpg)
+![figures](figures/vaccine%20seq.jpg)
 
 
 
