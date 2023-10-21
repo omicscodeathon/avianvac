@@ -22,7 +22,7 @@ This study focuses on constructing a multiple epitope vaccine against the H3N8 s
 
 ### Workflow
 ![figures](figures/Avianvac_Flowchart.png)
-  
+
 
 
 ## Results
@@ -37,7 +37,7 @@ ProtParam showed a molecular weight of 63686.23 Da whereas it contains 565 amino
 
 
 ### Antigenicity of H3N8 Spike protein
-![figures](figures/Antigenicity.jpg) 
+![figures](figures/Antigenicity.jpg)
 
 
 ### B cell epitopes threshold score and position
@@ -89,35 +89,12 @@ The proposed vaccine met all the required criteria together with antigenicity, a
 ## Team Members
 - Chimenya Ntweya (Department of Biotechnology and Bioinformatics, Deogiri College, Aurangabad, India; Department of Medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, Malawi) chimenyantweya54@gmail.com
 - Ojochenemi Enejoh (Genomics and Bioinformatics Department, National Biotechnology Development Agency, Abuja, Nigeria) chenemidala@gmail.com
-- Diabate Oudou diabateoudou@gmail.com 
-- Angellina Rukundo angellinarukundo@gmail.com 
-- Ayando Oluwaseun ayandooluwaseunayo@gmail.com 
-- Margaret Alabi margaretalabi92@gmail.com 
-- Eniola Onabowale eonabowale@gmail.com 
+- Diabate Oudou diabateoudou@gmail.com
+- Angellina Rukundo angellinarukundo@gmail.com
+- Ayando Oluwaseun ayandooluwaseunayo@gmail.com
+- Margaret Alabi margaretalabi92@gmail.com
+- Eniola Onabowale eonabowale@gmail.com
 - Wambui Kariithim wambuikariithim@gmail.com
 - Adham Hallal adham.hallal@gmail.com
 - Lorreta Kwasah kwasahlorreta@gmail.com
-- Mamadou Sangare 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-![image](https://github.com/omicscodeathon/avianvac/assets/69383371/acda94d6-8f0f-4530-8c6b-626839bebb38)
-
-
+- Mamadou Sangare
